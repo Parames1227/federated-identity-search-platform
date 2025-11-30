@@ -1,7 +1,7 @@
 
 
 # Federated Identity & Search Platform (High-Performance Discovery Service)
-/* Currently it is only fir restaurants, Later I'll add more */
+/* Currently it is only for restaurants, Later I'll add more */
 
 This project is a microservices-based backend platform designed for large-scale, high-speed entity discovery and secure identity management. It serves as a comprehensive demonstration of performance optimization, advanced data indexing, and enterprise security protocols using a modern Java/Spring Boot stack.
 
